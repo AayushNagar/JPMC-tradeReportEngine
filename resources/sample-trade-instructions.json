@@ -1,0 +1,202 @@
+[
+	{
+		"entity": "entity1",
+		"orderType": "B",
+		"agreedFx": 0.5,
+		"currency": "SGP",
+		"instructionDate": "2019-02-01",
+		"settlementDate": "2019-02-02",
+		"units": 100,
+		"perUnitPrice": 100.25
+	},
+	{
+		"entity": "entity2",
+		"orderType": "S",
+		"agreedFx": 0.22,
+		"currency": "AED",
+		"instructionDate": "2019-02-15",
+		"settlementDate": "2019-02-17",
+		"units": 40,
+		"perUnitPrice": 150.5
+	},
+	{
+		"entity": "entity3",
+		"orderType": "S",
+		"agreedFx": 1.06,
+		"currency": "EUR",
+		"instructionDate": "2019-02-28",
+		"settlementDate": "2019-03-02",
+		"units": 350,
+		"perUnitPrice": 170
+	},
+	{
+		"entity": "entity4",
+		"orderType": "B",
+		"agreedFx": 1.24,
+		"currency": "GBP",
+		"instructionDate": "2016-03-02",
+		"settlementDate": "2019-03-04",
+		"units": 250,
+		"perUnitPrice": 350.85
+	},
+	{
+		"entity": "entity5",
+		"orderType": "B",
+		"agreedFx": 0.015,
+		"currency": "SAR",
+		"instructionDate": "2016-02-25",
+		"settlementDate": "2019-02-27",
+		"units": 112,
+		"perUnitPrice": 567.50
+	},
+	{
+		"entity": "entity1",
+		"orderType": "s",
+		"agreedFx": 0.77,
+		"currency": "AUD",
+		"instructionDate": "2019-02-25",
+		"settlementDate": "2019-02-28",
+		"units": 13,
+		"perUnitPrice": 31.99
+	},
+	{
+		"entity": "entity2",
+		"orderType": "B",
+		"agreedFx": 0.56,
+		"currency": "CAD",
+		"instructionDate": "2019-02-23",
+		"settlementDate": "2019-02-28",
+		"units": 144,
+		"perUnitPrice": 544.00
+	},
+	{
+		"entity": "entity3",
+		"orderType": "B",
+		"agreedFx": 0.0016,
+		"currency": "USD",
+		"instructionDate": "2019-02-25",
+		"settlementDate": "2019-02-25",
+		"units": 150,
+		"perUnitPrice": 294.33
+	},
+	{
+		"entity": "entity4",
+		"orderType": "B",
+		"agreedFx": 0.76,
+		"currency": "INR",
+		"instructionDate": "2019-02-25",
+		"settlementDate": "2019-03-04",
+		"units": 60,
+		"perUnitPrice": 300.26
+	},
+	{
+		"entity": "entity5",
+		"orderType": "S",
+		"agreedFx": 0.063,
+		"currency": "RMB",
+		"instructionDate": "2019-02-26",
+		"settlementDate": "2019-02-28",
+		"units": 311,
+		"perUnitPrice": 1000
+	},
+		{
+		"entity": "entity1",
+		"orderType": "S",
+		"agreedFx": 0.5,
+		"currency": "SGP",
+		"instructionDate": "2019-02-01",
+		"settlementDate": "2019-02-02",
+		"units": 1100,
+		"perUnitPrice": 100.25
+	},
+	{
+		"entity": "entity2",
+		"orderType": "S",
+		"agreedFx": 0.22,
+		"currency": "AED",
+		"instructionDate": "2019-02-25",
+		"settlementDate": "2019-02-27",
+		"units": 400,
+		"perUnitPrice": 150.5
+	},
+	{
+		"entity": "entity3",
+		"orderType": "B",
+		"agreedFx": 1.06,
+		"currency": "EUR",
+		"instructionDate": "2019-02-28",
+		"settlementDate": "2019-03-04",
+		"units": 30,
+		"perUnitPrice": 170.67
+	},
+	{
+		"entity": "entity4",
+		"orderType": "S",
+		"agreedFx": 1.24,
+		"currency": "GBP",
+		"instructionDate": "2016-03-02",
+		"settlementDate": "2019-03-04",
+		"units": 2500,
+		"perUnitPrice": 350.85
+	},
+	{
+		"entity": "entity5",
+		"orderType": "B",
+		"agreedFx": 0.015,
+		"currency": "SAR",
+		"instructionDate": "2016-02-25",
+		"settlementDate": "2019-02-28",
+		"units": 112,
+		"perUnitPrice": 560.50
+	},
+	{
+		"entity": "entity1",
+		"orderType": "B",
+		"agreedFx": 0.77,
+		"currency": "AUD",
+		"instructionDate": "2019-02-25",
+		"settlementDate": "2019-02-28",
+		"units": 121,
+		"perUnitPrice": 44.99
+	},
+	{
+		"entity": "entity2",
+		"orderType": "B",
+		"agreedFx": 0.56,
+		"currency": "CAD",
+		"instructionDate": "2019-02-23",
+		"settlementDate": "2019-02-25",
+		"units": 140,
+		"perUnitPrice": 454.00
+	},
+	{
+		"entity": "entity3",
+		"orderType": "B",
+		"agreedFx": 0.0016,
+		"currency": "USD",
+		"instructionDate": "2019-02-25",
+		"settlementDate": "2019-02-25",
+		"units": 150,
+		"perUnitPrice": 300.33
+	},
+	{
+		"entity": "entity4",
+		"orderType": "S",
+		"agreedFx": 0.76,
+		"currency": "INR",
+		"instructionDate": "2019-02-25",
+		"settlementDate": "2019-02-28",
+		"units": 60,
+		"perUnitPrice": 313.26
+	},
+	{
+		"entity": "entity5",
+		"orderType": "S",
+		"agreedFx": 0.063,
+		"currency": "RMB",
+		"instructionDate": "2019-02-26",
+		"settlementDate": "2019-02-28",
+		"units": 444,
+		"perUnitPrice": 949
+	}
+]
